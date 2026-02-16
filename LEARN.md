@@ -16,12 +16,6 @@ It empowers job seekers to **prepare better**, **track progress**, and **improve
 
 ---
 
-## Live Demo
-
-🔗 [prepedgeai.vercel.app](https://prepedgeai.vercel.app)
-
----
-
 ## Core Features
 
 | Feature               | Description                                           |
@@ -126,32 +120,4 @@ cd client && npm run dev
 Run backend
 ```bash
 cd ../server && npm run dev
-```
 
-## Contribution Tips
-
-1. Pick an issue, or create your own
-
-2. Ask questions in the Discussions tab or Discord
-
-3. Wait for Project Admin or Mentor to assign the issue to you
-
-4. Make small, meaningful PRs
-
-5. Use clear commit messages (fix:, feat:, docs:)
-
-
-## Code of Conduct
-Before contributing, please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md). We are committed to providing a welcoming, inclusive, and harassment-free experience for everyone in the GSSoC community.
-
-
-## Maintainers
-  [Abhinav Mishra](https://github.com/CoderUzumaki) – Project Admin  
-  [Huda Naaz](https://github.com/hudazaan) - Project Mentor  
-  [R Pavan Sarvesh](https://github.com/pavansarvesh) - Project Mentor    
-
-## Inspiration
-
-PrepEdge AI was born to solve the real struggle of candidates preparing for interviews who need personalized practice, feedback, and confidence – powered by AI.
-
-*Ready to make an impact? Start contributing today*
