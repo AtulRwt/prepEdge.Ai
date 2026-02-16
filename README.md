@@ -88,41 +88,4 @@
 | ![Resources](./screenshots/resources1.png) |
 
 
----
 
-<h2 id='contributions'> 5. Contribution 🤝 </h2>
-<p> 
-    <b> Contributions are Welcome! </b>
-    <br>
-    <b>PrepEdge</b> is proudly part of <b>GirlScript Summer of Code (GSSoC) 2025</b>, a nationwide open-source program aimed at encouraging more developers to contribute to meaningful projects.  <br><br>
-    We welcome <b>all contributions</b>—whether you're a beginner or an experienced developer! To get started:  <br>
-    - 📘 <b>Read our <a href="./LEARN.md"> LEARN.md </a></b> to understand the project structure, features, and setup.  <br>
-    - 📜 <b>Review the <a href="./CODE_OF_CONDUCT.md"> CODE_OF_CONDUCT.md </a></b> to ensure a positive, respectful, and inclusive environment.  <br><br>
-    We encourage you to explore issues, submit pull requests, and be a part of building a smart, AI-driven interview preparation platform.   <br>
-    If you’d like to improve a feature or fix a bug:  
-  
-    - Fork the repo 
-    - Find and Report the issue
-    - Wait for us to assign that issue to you
-    - Create a new branch (git checkout -b feature-xyz) 
-    - Make your changes 
-    - Push and open a PR 
-    
-   ⚠️ Please ensure code is clean, readable, and follows the existing architecture.  
-
-   Happy contributing! 💻✨   
-</p>
-
----
-
-<h2 id='author'> 6. Author ✍️ </h2>
-<h3><samp>Abhinav Mishra – <a href="https://github.com/CoderUzumaki">@CoderUzumaki</a></samp></h3>
-
----
-
-<h2 id='license'> 7. License 📄 </h2>
-<p>
-  This project is licensed under the <a href="./LICENSE">MIT License</a>.  
-  <br>
-  Feel free to use, modify, and distribute it under the terms of the license.
-</p>
